@@ -1,0 +1,24 @@
+th, td { 
+  vertical-align: middle;
+  text-align: right;
+  font-size:large;
+}     
+
+#converted { 
+  color: red;
+  font-weight: bold;
+  font-size:large;
+}    
+
+input { 
+  text-align: right;
+  border: none;
+  font-size:large;
+  padding: 5px;
+}
+
+body {
+  background-color:#b0c4de;  /* blue */
+  font-size:large;
+  font-family: helvetica;
+}
